@@ -186,6 +186,10 @@ public class MainActivity extends Activity {
                 });
                 builder.show();
                 break;
+            case R.id.action_code:
+                Intent intent1=new Intent(this,BarCodeTestActivity.class);
+                startActivity(intent1);
+                break;
         }
         return true;
     }
