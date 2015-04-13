@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="xUtils-2.6.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/xUtils-2.6.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/xUtils-2.6.13-sources.jar!/" />
+      <root url="file://C:/Program Files/adt-bundle-windows-x86-20130522/adt-bundle-windows-x86-20130522/sdk/sources/android-17" />
+    </SOURCES>
+  </library>
+</component>
